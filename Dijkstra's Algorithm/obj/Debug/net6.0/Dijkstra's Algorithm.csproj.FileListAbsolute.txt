@@ -1,0 +1,15 @@
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\bin\Debug\net6.0\Dijkstra's Algorithm.exe
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\bin\Debug\net6.0\Dijkstra's Algorithm.deps.json
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\bin\Debug\net6.0\Dijkstra's Algorithm.runtimeconfig.json
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\bin\Debug\net6.0\Dijkstra's Algorithm.dll
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\bin\Debug\net6.0\ref\Dijkstra's Algorithm.dll
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\bin\Debug\net6.0\Dijkstra's Algorithm.pdb
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\Dijkstra's Algorithm.csproj.AssemblyReference.cache
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\Dijkstra's Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\Dijkstra's Algorithm.AssemblyInfoInputs.cache
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\Dijkstra's Algorithm.AssemblyInfo.cs
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\Dijkstra's Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\Dijkstra's Algorithm.dll
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\ref\Dijkstra's Algorithm.dll
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\Dijkstra's Algorithm.pdb
+C:\Users\tyccr\Documents\Dijkstra's Algorithm\obj\Debug\net6.0\Dijkstra's Algorithm.genruntimeconfig.cache
